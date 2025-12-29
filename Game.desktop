@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dzień z Życia Teklaga 
+Exec=sh -c ~/.local/share/dzien-z-zycia-teklaga/nw
+Terminal=false
+Type=Application
+Hidden=false
+Icon=/usr/share/icons/dzzt-logo.png
+Keywords=dzzt;dzżt;DZZT;DZŻT;dzien z zycia teklaga;teklag
